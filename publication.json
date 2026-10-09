@@ -1,0 +1,12 @@
+{
+ "deployed_url": "https://hardy1yang.github.io/referendum-atlas/",
+ "deployed_at": "2026-10-09T01:31:01+00:00",
+ "run_id": "b0067efb43a0",
+ "ly_run_id": "fetch-20261006T122600Z-dfc47335",
+ "manifest_sha256": "b7fcdabf856d5b2023c0b5cdf5521e4d78232dc8890ff24ef8e5318d66654128",
+ "chapters": [
+  "energy",
+  "districts"
+ ],
+ "site_commit": "31d5b024136bca4104d5311b0f7962af1e3557b1"
+}
